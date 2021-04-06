@@ -11,7 +11,7 @@
 ## Dashboard
 ### It displays the status of each student's progress and which courses they are enrolled in. The table in this page can be filtered by a classroom, by the keyword search bar or by course name in the top navigation bar.
 ![Dashboard](https://github.com/jbawt/Safety-In-Schools-Teacher-Interface/blob/master/teacher_dashboard_SWIFTLearning_media/Dashboard.png?raw=true)
-### This is the dropdown that filter all the courses on the tables throughout the entire website
+### This is the dropdown that filters all the courses on the tables throughout the entire website
 ![drop-down-filter](https://github.com/jbawt/Safety-In-Schools-Teacher-Interface/blob/master/teacher_dashboard_SWIFTLearning_media/course_filter.png?raw=true)
 ### This is the result after applying the filters
 ![after-filtered](https://github.com/jbawt/Safety-In-Schools-Teacher-Interface/blob/master/teacher_dashboard_SWIFTLearning_media/after_filtered.png?raw=true)
